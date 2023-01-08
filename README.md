@@ -1,5 +1,5 @@
 # DCAT
-This repository is the implementation of *Dual-branch Cross-Patch Attention Learning for Group Affect Recognition*. [ArXiv](https://arxiv.org/abs/2212.07055)
+This repository is the implementation of a Group Affect Project.
 
 ## Installation
 
