@@ -63,7 +63,7 @@ python POINT_new_dataset_test.py \
 
 
 ## Pretrained models
-We provide models trained on GAF 3.0 and GroupEmoW. You can find models [here](https://drive.google.com/drive/folders/1-qFKcqDHCaGP1HIMfueXZTlrZ12O1scA?usp=sharing).
+We provide models trained on GAF 3.0 and GroupEmoW. You can find models [here](https://drive.google.com/drive/folders/0B7hD4kk8tEgsfkZIaWxkT3k1RnRVU2FtOHRLbmpZNG96LXBhQTIzOEhwSG0tZkxJM3h0WG8?resourcekey=0-BhjYiuxBUB_xd3rlytZxUw&usp=sharing).
 
 
 
